@@ -78,6 +78,6 @@ eureka:
     instance-id: ${spring.cloud.client.ip-address}:${spring.application.name}:${server.port}
     prefer-ip-address: true
     
-user:
-  username:zhangsan
+student:
+  name:zhangsan
 #保存时注意，选择 UTF-8 保存
