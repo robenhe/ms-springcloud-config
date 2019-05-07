@@ -79,5 +79,6 @@ eureka:
     prefer-ip-address: true
     
 student:
-  name:zhangsan
+  name: zhangsan
+  
 #保存时注意，选择 UTF-8 保存
